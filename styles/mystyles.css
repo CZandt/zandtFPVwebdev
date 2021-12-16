@@ -1,0 +1,21 @@
+.section-heading-upper {
+    font-style:italic;
+    color:rgb(116, 61, 116);
+    
+
+}
+
+.section-heading-lower {
+    font-style: italic;
+}
+
+.listsfromme {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color:dimgray;
+}
+
+.intro-button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
